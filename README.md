@@ -133,7 +133,11 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - https://github.com/rawhasan/jetpack-compose-exercises
     
-    - A collection of exercise projects in Jetpack Compose that shows how to do the usual things from the view word in the new way in Jetpack Compose. 
+    - A collection of exercise projects in Jetpack Compose that shows how to do the usual things from the view word in the new way in Jetpack Compose.
+  
+- https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook
+  
+    - A Collection of major Jetpack compose UI components which are commonly used.🎉🔝👌
 
 
 ## Articles and Tutorials
@@ -263,6 +267,16 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 <p align="center">
 <img src="assets/2019_5_20_google_io_page-0001.jpg" alt="Jetpack Compose by TakuSemba"></img>
+</p>
+
+<br>
+
+- [SSComposeCookBook: Jetpack compose UI components](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) [Aug 25, 2021]
+
+<br>
+
+<p align="center">
+<img src="assets/simform_compose_banner.png" alt="SSComposeCookBook: A Collection of major Jetpack compose UI components which are commonly used."></img>
 </p>
 
 <br>
